@@ -1,5 +1,5 @@
 # ism = "Salom"
-# print(,ism)
+# print(ism)
 # # 2
 # yosh = "17"
 # print(f"Mening yoshim {yosh}")
